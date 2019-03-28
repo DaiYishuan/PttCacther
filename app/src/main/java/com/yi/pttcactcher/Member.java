@@ -1,9 +1,9 @@
 package com.yi.pttcactcher;
 
 public class Member {
-    private int id;
+    protected int id;
     private int image;
-    private String name;
+    protected String name;
 
     public Member() {
         super();
